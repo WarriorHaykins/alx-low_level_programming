@@ -36,5 +36,5 @@ else if (a != 98)
 printf("%d, ", a);
 }
 }
-return (0);
+}
 }
