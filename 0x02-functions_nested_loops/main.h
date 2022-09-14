@@ -1,3 +1,4 @@
+int add(int, int);
 void times_table(void);
 int print_last_digit(int);
 int _abs(int);
